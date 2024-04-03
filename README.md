@@ -19,6 +19,8 @@ The commons will be updated at least once a week, and each time they will be res
 Use this list to help you think of where and how to organize whatever you are uploading. You are free to invent new folders, and even folders just for yourself.Remember, it resets every week. If nothing is there, the folder won't be there.
 
 
+
+```
 /News/
 - stories
 - pictures
@@ -63,6 +65,6 @@ Use this list to help you think of where and how to organize whatever you are up
 etc
 etc
 etc
-
+```
 
 
